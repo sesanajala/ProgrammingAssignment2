@@ -1,6 +1,6 @@
 ## This file contains a pair of functions for computing the inverse of a matrix with caching functionality
-## It caches the computed inverse and returns a cached computational value if the functiona has been called earlier
-## This prevents helps in optimizing use of computing resources by not recalculating all the time
+## It caches the computed inverse and returns a cached computational value if the function has been called earlier
+## This helps in optimizing use of computing resources by not recalculating all the time
 
 
 ## This is a funtion to create a special "matrix" object that can cache its inverse
